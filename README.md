@@ -59,7 +59,3 @@ The entire project deliverable is accessible via a single, consulting-grade Exce
   * **YoY / Lag Logic**: `LAG()` for Year-over-Year growth tracking and quarterly seasonality analysis.
 • Developed an executive Excel financial model featuring dynamic two-way sensitivity matrices simulating the impact of oil price (±$10/bbl = ±$1.7B) and forex (±₹1/$ = ±₹13,500 Cr) shocks on India’s import bill.
 • Designed a self-contained Executive Visual Analytics dashboard in Excel with embedded charts modeling India's 85% to 90.7% import dependency trajectory, fuel slate shifts (diesel dominance), and refining export economics.
-```
-
-## Author
-Ananya Kastiya
