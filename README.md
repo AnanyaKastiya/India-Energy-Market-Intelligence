@@ -3,7 +3,6 @@
 
 ![Data Source](https://img.shields.io/badge/Data_Source-PPAC_MoPNG-blue)
 ![Stack](https://img.shields.io/badge/Stack-Python_|_SQL_|_Advanced_Excel-orange)
-![Target Role](https://img.shields.io/badge/Target-Rystad_Energy_Analyst-navy)
 
 ---
 
@@ -17,42 +16,6 @@ This project delivers an enterprise-grade market intelligence platform analyzing
 
 The solution integrates **Python automated ETL**, a relational **SQLite Star Schema warehouse**, and a self-contained **Executive Excel Financial Model with an embedded Visual Analytics Dashboard**.
 
----
-
-## Repository Structure
-
-```text
-Energy_Analytics/
-├── data/
-│   ├── raw/                           # Raw PPAC 10-year monthly time-series (120 months)
-│   │   ├── ppac_crude_import_bill_and_prices.csv
-│   │   ├── ppac_upstream_crude_gas_production.csv
-│   │   ├── ppac_refinery_crude_throughput.csv
-│   │   └── ppac_petroleum_product_consumption.csv
-│   └── processed/                     # Clean dimensional tables formatted for SQL & BI tools
-│       ├── dim_date.csv
-│       ├── dim_product.csv
-│       ├── dim_refinery.csv
-│       ├── fact_upstream_production.csv
-│       ├── fact_refinery_throughput.csv
-│       ├── fact_product_consumption.csv
-│       └── fact_trade_and_prices.csv
-├── scripts/
-│   ├── 01_data_extraction.py          # Extraction and historical time-series compilation
-│   ├── 02_etl_pipeline.py             # Data quality assurance, mass balance test & DB loader
-│   ├── 03_build_excel_model.py        # Generates the multi-tab executive Excel workbook with charts
-│   └── test_queries.py                # SQL test runner verifying analytical queries
-├── sql/
-│   ├── 01_schema_design.sql           # Star Schema DDL with primary/foreign keys & indexes
-│   └── 02_analytical_queries.sql      # 10 production-grade SQL analytical consulting queries
-├── database/
-│   └── india_energy_warehouse.db      # Live relational SQLite database (659 KB)
-├── models/
-│   └── India_Petroleum_Macro_Monitor_Updated.xlsx  # Multi-tab executive Excel model with embedded charts
-└── README.md                          # Full project documentation & resume bullet points
-```
-
----
 
 ## The Self-Contained Excel Model (`models/India_Petroleum_Macro_Monitor_Updated.xlsx`)
 
@@ -94,15 +57,6 @@ The entire project deliverable is accessible via a single, consulting-grade Exce
 * Developed 10 production analytical queries utilizing advanced SQL techniques:
   * **Window Functions**: `SUM() OVER(PARTITION BY ...)`, `AVG() OVER (ROWS BETWEEN 11 PRECEDING AND CURRENT ROW)` for 12-month trailing moving averages.
   * **YoY / Lag Logic**: `LAG()` for Year-over-Year growth tracking and quarterly seasonality analysis.
-
----
-
-## Resume Bullet Points
-
-```markdown
-India Petroleum & Refining Market Intelligence Platform | Python, SQL, Advanced Excel Modeling
-• Architected an end-to-end energy intelligence platform analyzing 10 years of official PPAC monthly data (FY15–FY24) across upstream extraction, 21 refineries, and 9 refined petroleum products.
-• Engineered automated Python ETL pipelines performing physical mass-balance validation (92.1% liquid yield verification) and deployed a relational SQLite Star Schema data warehouse with 10 production analytical queries.
 • Developed an executive Excel financial model featuring dynamic two-way sensitivity matrices simulating the impact of oil price (±$10/bbl = ±$1.7B) and forex (±₹1/$ = ±₹13,500 Cr) shocks on India’s import bill.
 • Designed a self-contained Executive Visual Analytics dashboard in Excel with embedded charts modeling India's 85% to 90.7% import dependency trajectory, fuel slate shifts (diesel dominance), and refining export economics.
 ```
