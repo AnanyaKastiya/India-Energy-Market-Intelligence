@@ -1,0 +1,22 @@
+refinery_id,name,operator,sector,state,capacity_mmtpa
+REF01,IOCL Panipat,IOCL,PSU,Haryana,15.0
+REF02,IOCL Koyali (Gujarat),IOCL,PSU,Gujarat,13.7
+REF03,IOCL Paradip,IOCL,PSU,Odisha,15.0
+REF04,IOCL Mathura,IOCL,PSU,Uttar Pradesh,8.0
+REF05,IOCL Haldia,IOCL,PSU,West Bengal,7.5
+REF06,IOCL Barauni,IOCL,PSU,Bihar,6.0
+REF07,IOCL Bongaigaon,IOCL,PSU,Assam,2.35
+REF08,IOCL Guwahati,IOCL,PSU,Assam,1.0
+REF09,IOCL Digboi,IOCL,PSU,Assam,0.65
+REF10,BPCL Kochi,BPCL,PSU,Kerala,15.5
+REF11,BPCL Mumbai,BPCL,PSU,Maharashtra,12.0
+REF12,HPCL Mumbai,HPCL,PSU,Maharashtra,9.5
+REF13,HPCL Visakhapatnam,HPCL,PSU,Andhra Pradesh,11.0
+REF14,CPCL Manali (Chennai),CPCL (IOCL),PSU,Tamil Nadu,10.5
+REF15,MRPL Mangalore,MRPL (ONGC),PSU,Karnataka,15.0
+REF16,NRL Numaligarh,NRL (OIL),PSU,Assam,3.0
+REF17,HMEL Bathinda (GGSR),HMEL (HPCL-Mittal),JV,Punjab,11.3
+REF18,BORL Bina,BPCL (BORL),PSU,Madhya Pradesh,7.8
+REF19,Reliance Jamnagar (DTA),Reliance Industries,Private,Gujarat,33.0
+REF20,Reliance Jamnagar (SEZ Export),Reliance Industries,Private,Gujarat,35.2
+REF21,Nayara Energy (Vadinar),Nayara Energy,Private,Gujarat,20.0

@@ -1,0 +1,10 @@
+product_id,name,category,key_driver,share_approx
+PRD01,High Speed Diesel (HSD),Middle Distillate,"Trucking, Freight, Agriculture, Rail",0.385
+PRD02,Motor Spirit (Petrol / MS),Light Distillate,"Passenger Vehicles, Two-Wheelers",0.16
+PRD03,Liquefied Petroleum Gas (LPG),Light Distillate,"Domestic Cooking (Ujjwala Scheme), Commercial",0.13
+PRD04,Aviation Turbine Fuel (ATF),Middle Distillate,"Commercial Aviation, Travel",0.035
+PRD05,Naphtha,Light Distillate,"Fertilizer Feedstock, Petrochemical Cracker",0.06
+PRD06,Petroleum Coke (Petcoke),Heavy Ends,"Cement Plants, Captive Power",0.075
+PRD07,Bitumen,Heavy Ends,"National Highway Construction, Road Paving",0.04
+PRD08,Fuel Oil (FO / LSHS),Heavy Ends,"Industrial Boilers, Bunkering, Steel",0.045
+PRD09,Light Diesel Oil & Lubes,Others,"Engines, Industrial Machinery",0.07

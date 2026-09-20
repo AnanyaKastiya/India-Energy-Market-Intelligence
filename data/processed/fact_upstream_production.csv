@@ -1,0 +1,481 @@
+date,fiscal_year,company,source_type,crude_oil_production_tmt,natural_gas_production_mmscm
+2014-04-01,FY 2014-15,ONGC,Offshore (Mumbai High/Bassein),1187.45,1327.79
+2014-04-01,FY 2014-15,ONGC,Onshore (Gujarat/Assam/Others),488.89,516.36
+2014-04-01,FY 2014-15,OIL India,Onshore (Assam/Rajasthan),283.89,238.6
+2014-04-01,FY 2014-15,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),738.28,473.69
+2014-05-01,FY 2014-15,ONGC,Offshore (Mumbai High/Bassein),1190.01,1322.72
+2014-05-01,FY 2014-15,ONGC,Onshore (Gujarat/Assam/Others),485.87,514.39
+2014-05-01,FY 2014-15,OIL India,Onshore (Assam/Rajasthan),283.09,241.62
+2014-05-01,FY 2014-15,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),712.52,419.63
+2014-06-01,FY 2014-15,ONGC,Offshore (Mumbai High/Bassein),1151.13,1313.86
+2014-06-01,FY 2014-15,ONGC,Onshore (Gujarat/Assam/Others),484.75,510.94
+2014-06-01,FY 2014-15,OIL India,Onshore (Assam/Rajasthan),273.59,231.86
+2014-06-01,FY 2014-15,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),719.94,468.65
+2014-07-01,FY 2014-15,ONGC,Offshore (Mumbai High/Bassein),1125.23,1331.3
+2014-07-01,FY 2014-15,ONGC,Onshore (Gujarat/Assam/Others),489.42,517.73
+2014-07-01,FY 2014-15,OIL India,Onshore (Assam/Rajasthan),270.95,233.59
+2014-07-01,FY 2014-15,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),707.72,450.64
+2014-08-01,FY 2014-15,ONGC,Offshore (Mumbai High/Bassein),1118.39,1328.16
+2014-08-01,FY 2014-15,ONGC,Onshore (Gujarat/Assam/Others),486.17,516.51
+2014-08-01,FY 2014-15,OIL India,Onshore (Assam/Rajasthan),275.72,234.32
+2014-08-01,FY 2014-15,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),734.56,455.67
+2014-09-01,FY 2014-15,ONGC,Offshore (Mumbai High/Bassein),1154.19,1331.04
+2014-09-01,FY 2014-15,ONGC,Onshore (Gujarat/Assam/Others),489.8,517.63
+2014-09-01,FY 2014-15,OIL India,Onshore (Assam/Rajasthan),267.41,245.26
+2014-09-01,FY 2014-15,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),694.48,444.24
+2014-10-01,FY 2014-15,ONGC,Offshore (Mumbai High/Bassein),1169.27,1318.31
+2014-10-01,FY 2014-15,ONGC,Onshore (Gujarat/Assam/Others),485.34,512.68
+2014-10-01,FY 2014-15,OIL India,Onshore (Assam/Rajasthan),270.13,247.34
+2014-10-01,FY 2014-15,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),699.86,445.15
+2014-11-01,FY 2014-15,ONGC,Offshore (Mumbai High/Bassein),1143.05,1336.71
+2014-11-01,FY 2014-15,ONGC,Onshore (Gujarat/Assam/Others),489.97,519.83
+2014-11-01,FY 2014-15,OIL India,Onshore (Assam/Rajasthan),276.52,247.35
+2014-11-01,FY 2014-15,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),698.46,452.3
+2014-12-01,FY 2014-15,ONGC,Offshore (Mumbai High/Bassein),1155.41,1316.17
+2014-12-01,FY 2014-15,ONGC,Onshore (Gujarat/Assam/Others),484.53,511.85
+2014-12-01,FY 2014-15,OIL India,Onshore (Assam/Rajasthan),280.65,240.22
+2014-12-01,FY 2014-15,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),716.37,420.07
+2015-01-01,FY 2014-15,ONGC,Offshore (Mumbai High/Bassein),1148.56,1341.96
+2015-01-01,FY 2014-15,ONGC,Onshore (Gujarat/Assam/Others),493.13,521.87
+2015-01-01,FY 2014-15,OIL India,Onshore (Assam/Rajasthan),286.64,243.67
+2015-01-01,FY 2014-15,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),701.89,425.32
+2015-02-01,FY 2014-15,ONGC,Offshore (Mumbai High/Bassein),1170.42,1275.84
+2015-02-01,FY 2014-15,ONGC,Onshore (Gujarat/Assam/Others),498.55,496.16
+2015-02-01,FY 2014-15,OIL India,Onshore (Assam/Rajasthan),278.12,246.6
+2015-02-01,FY 2014-15,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),719.61,434.64
+2015-03-01,FY 2014-15,ONGC,Offshore (Mumbai High/Bassein),1159.01,1328.53
+2015-03-01,FY 2014-15,ONGC,Onshore (Gujarat/Assam/Others),486.61,516.65
+2015-03-01,FY 2014-15,OIL India,Onshore (Assam/Rajasthan),266.24,250.7
+2015-03-01,FY 2014-15,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),696.28,423.89
+2015-04-01,FY 2015-16,ONGC,Offshore (Mumbai High/Bassein),1149.87,1311.66
+2015-04-01,FY 2015-16,ONGC,Onshore (Gujarat/Assam/Others),481.49,510.09
+2015-04-01,FY 2015-16,OIL India,Onshore (Assam/Rajasthan),283.49,245.08
+2015-04-01,FY 2015-16,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),700.95,431.46
+2015-05-01,FY 2015-16,ONGC,Offshore (Mumbai High/Bassein),1175.03,1293.96
+2015-05-01,FY 2015-16,ONGC,Onshore (Gujarat/Assam/Others),479.51,503.21
+2015-05-01,FY 2015-16,OIL India,Onshore (Assam/Rajasthan),275.87,243.94
+2015-05-01,FY 2015-16,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),690.38,432.25
+2015-06-01,FY 2015-16,ONGC,Offshore (Mumbai High/Bassein),1159.08,1313.23
+2015-06-01,FY 2015-16,ONGC,Onshore (Gujarat/Assam/Others),482.87,510.7
+2015-06-01,FY 2015-16,OIL India,Onshore (Assam/Rajasthan),269.17,237.52
+2015-06-01,FY 2015-16,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),688.12,424.25
+2015-07-01,FY 2015-16,ONGC,Offshore (Mumbai High/Bassein),1117.02,1317.16
+2015-07-01,FY 2015-16,ONGC,Onshore (Gujarat/Assam/Others),499.46,512.23
+2015-07-01,FY 2015-16,OIL India,Onshore (Assam/Rajasthan),278.55,230.99
+2015-07-01,FY 2015-16,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),694.34,424.6
+2015-08-01,FY 2015-16,ONGC,Offshore (Mumbai High/Bassein),1110.63,1316.98
+2015-08-01,FY 2015-16,ONGC,Onshore (Gujarat/Assam/Others),503.71,512.16
+2015-08-01,FY 2015-16,OIL India,Onshore (Assam/Rajasthan),276.18,235.65
+2015-08-01,FY 2015-16,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),692.95,440.48
+2015-09-01,FY 2015-16,ONGC,Offshore (Mumbai High/Bassein),1165.78,1291.47
+2015-09-01,FY 2015-16,ONGC,Onshore (Gujarat/Assam/Others),489.95,502.24
+2015-09-01,FY 2015-16,OIL India,Onshore (Assam/Rajasthan),271.71,246.35
+2015-09-01,FY 2015-16,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),704.25,454.52
+2015-10-01,FY 2015-16,ONGC,Offshore (Mumbai High/Bassein),1138.14,1287.89
+2015-10-01,FY 2015-16,ONGC,Onshore (Gujarat/Assam/Others),478.72,500.85
+2015-10-01,FY 2015-16,OIL India,Onshore (Assam/Rajasthan),277.6,243.41
+2015-10-01,FY 2015-16,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),679.46,404.07
+2015-11-01,FY 2015-16,ONGC,Offshore (Mumbai High/Bassein),1158.6,1309.1
+2015-11-01,FY 2015-16,ONGC,Onshore (Gujarat/Assam/Others),475.52,509.1
+2015-11-01,FY 2015-16,OIL India,Onshore (Assam/Rajasthan),286.13,248.05
+2015-11-01,FY 2015-16,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),674.18,399.87
+2015-12-01,FY 2015-16,ONGC,Offshore (Mumbai High/Bassein),1153.41,1318.68
+2015-12-01,FY 2015-16,ONGC,Onshore (Gujarat/Assam/Others),492.96,512.82
+2015-12-01,FY 2015-16,OIL India,Onshore (Assam/Rajasthan),267.02,248.02
+2015-12-01,FY 2015-16,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),683.88,398.11
+2016-01-01,FY 2015-16,ONGC,Offshore (Mumbai High/Bassein),1128.69,1319.34
+2016-01-01,FY 2015-16,ONGC,Onshore (Gujarat/Assam/Others),486.3,513.08
+2016-01-01,FY 2015-16,OIL India,Onshore (Assam/Rajasthan),278.28,239.42
+2016-01-01,FY 2015-16,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),682.76,418.48
+2016-02-01,FY 2015-16,ONGC,Offshore (Mumbai High/Bassein),1151.4,1290.76
+2016-02-01,FY 2015-16,ONGC,Onshore (Gujarat/Assam/Others),476.04,501.96
+2016-02-01,FY 2015-16,OIL India,Onshore (Assam/Rajasthan),287.53,247.61
+2016-02-01,FY 2015-16,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),683.52,398.71
+2016-03-01,FY 2015-16,ONGC,Offshore (Mumbai High/Bassein),1157.31,1318.73
+2016-03-01,FY 2015-16,ONGC,Onshore (Gujarat/Assam/Others),490.64,512.84
+2016-03-01,FY 2015-16,OIL India,Onshore (Assam/Rajasthan),271.24,248.77
+2016-03-01,FY 2015-16,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),687.48,440.12
+2016-04-01,FY 2016-17,ONGC,Offshore (Mumbai High/Bassein),1140.32,1309.01
+2016-04-01,FY 2016-17,ONGC,Onshore (Gujarat/Assam/Others),474.97,509.06
+2016-04-01,FY 2016-17,OIL India,Onshore (Assam/Rajasthan),270.66,246.05
+2016-04-01,FY 2016-17,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),664.21,414.15
+2016-05-01,FY 2016-17,ONGC,Offshore (Mumbai High/Bassein),1154.91,1358.46
+2016-05-01,FY 2016-17,ONGC,Onshore (Gujarat/Assam/Others),480.73,528.29
+2016-05-01,FY 2016-17,OIL India,Onshore (Assam/Rajasthan),284.55,247.92
+2016-05-01,FY 2016-17,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),668.91,395.48
+2016-06-01,FY 2016-17,ONGC,Offshore (Mumbai High/Bassein),1124.94,1317.12
+2016-06-01,FY 2016-17,ONGC,Onshore (Gujarat/Assam/Others),484.11,512.21
+2016-06-01,FY 2016-17,OIL India,Onshore (Assam/Rajasthan),274.33,243.9
+2016-06-01,FY 2016-17,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),678.73,393.96
+2016-07-01,FY 2016-17,ONGC,Offshore (Mumbai High/Bassein),1072.11,1285.28
+2016-07-01,FY 2016-17,ONGC,Onshore (Gujarat/Assam/Others),476.3,499.83
+2016-07-01,FY 2016-17,OIL India,Onshore (Assam/Rajasthan),280.64,245.54
+2016-07-01,FY 2016-17,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),670.82,410.78
+2016-08-01,FY 2016-17,ONGC,Offshore (Mumbai High/Bassein),1079.75,1313.24
+2016-08-01,FY 2016-17,ONGC,Onshore (Gujarat/Assam/Others),480.73,510.7
+2016-08-01,FY 2016-17,OIL India,Onshore (Assam/Rajasthan),275.68,248.03
+2016-08-01,FY 2016-17,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),652.62,419.58
+2016-09-01,FY 2016-17,ONGC,Offshore (Mumbai High/Bassein),1152.31,1315.15
+2016-09-01,FY 2016-17,ONGC,Onshore (Gujarat/Assam/Others),468.1,511.45
+2016-09-01,FY 2016-17,OIL India,Onshore (Assam/Rajasthan),269.54,247.92
+2016-09-01,FY 2016-17,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),670.6,459.46
+2016-10-01,FY 2016-17,ONGC,Offshore (Mumbai High/Bassein),1143.56,1299.33
+2016-10-01,FY 2016-17,ONGC,Onshore (Gujarat/Assam/Others),487.83,505.29
+2016-10-01,FY 2016-17,OIL India,Onshore (Assam/Rajasthan),280.72,249.55
+2016-10-01,FY 2016-17,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),670.32,388.41
+2016-11-01,FY 2016-17,ONGC,Offshore (Mumbai High/Bassein),1129.95,1270.49
+2016-11-01,FY 2016-17,ONGC,Onshore (Gujarat/Assam/Others),474.49,494.08
+2016-11-01,FY 2016-17,OIL India,Onshore (Assam/Rajasthan),275.32,249.28
+2016-11-01,FY 2016-17,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),688.36,374.14
+2016-12-01,FY 2016-17,ONGC,Offshore (Mumbai High/Bassein),1124.92,1290.32
+2016-12-01,FY 2016-17,ONGC,Onshore (Gujarat/Assam/Others),486.71,501.79
+2016-12-01,FY 2016-17,OIL India,Onshore (Assam/Rajasthan),275.05,249.41
+2016-12-01,FY 2016-17,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),645.73,385.71
+2017-01-01,FY 2016-17,ONGC,Offshore (Mumbai High/Bassein),1133.75,1313.71
+2017-01-01,FY 2016-17,ONGC,Onshore (Gujarat/Assam/Others),477.99,510.89
+2017-01-01,FY 2016-17,OIL India,Onshore (Assam/Rajasthan),270.59,233.35
+2017-01-01,FY 2016-17,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),682.48,397.8
+2017-02-01,FY 2016-17,ONGC,Offshore (Mumbai High/Bassein),1119.07,1310.49
+2017-02-01,FY 2016-17,ONGC,Onshore (Gujarat/Assam/Others),484.07,509.63
+2017-02-01,FY 2016-17,OIL India,Onshore (Assam/Rajasthan),269.58,250.86
+2017-02-01,FY 2016-17,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),653.46,375.33
+2017-03-01,FY 2016-17,ONGC,Offshore (Mumbai High/Bassein),1122.48,1307.79
+2017-03-01,FY 2016-17,ONGC,Onshore (Gujarat/Assam/Others),473.08,508.58
+2017-03-01,FY 2016-17,OIL India,Onshore (Assam/Rajasthan),270.25,238.27
+2017-03-01,FY 2016-17,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),674.1,405.43
+2017-04-01,FY 2017-18,ONGC,Offshore (Mumbai High/Bassein),1157.83,1322.4
+2017-04-01,FY 2017-18,ONGC,Onshore (Gujarat/Assam/Others),484.76,514.27
+2017-04-01,FY 2017-18,OIL India,Onshore (Assam/Rajasthan),264.88,241.75
+2017-04-01,FY 2017-18,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),645.19,396.66
+2017-05-01,FY 2017-18,ONGC,Offshore (Mumbai High/Bassein),1136.12,1280.26
+2017-05-01,FY 2017-18,ONGC,Onshore (Gujarat/Assam/Others),468.71,497.88
+2017-05-01,FY 2017-18,OIL India,Onshore (Assam/Rajasthan),273.48,244.65
+2017-05-01,FY 2017-18,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),610.19,369.62
+2017-06-01,FY 2017-18,ONGC,Offshore (Mumbai High/Bassein),1147.49,1323.74
+2017-06-01,FY 2017-18,ONGC,Onshore (Gujarat/Assam/Others),464.31,514.79
+2017-06-01,FY 2017-18,OIL India,Onshore (Assam/Rajasthan),271.03,237.72
+2017-06-01,FY 2017-18,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),648.74,404.11
+2017-07-01,FY 2017-18,ONGC,Offshore (Mumbai High/Bassein),1076.79,1286.1
+2017-07-01,FY 2017-18,ONGC,Onshore (Gujarat/Assam/Others),467.52,500.15
+2017-07-01,FY 2017-18,OIL India,Onshore (Assam/Rajasthan),276.27,246.92
+2017-07-01,FY 2017-18,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),647.64,379.22
+2017-08-01,FY 2017-18,ONGC,Offshore (Mumbai High/Bassein),1076.83,1334.39
+2017-08-01,FY 2017-18,ONGC,Onshore (Gujarat/Assam/Others),480.3,518.93
+2017-08-01,FY 2017-18,OIL India,Onshore (Assam/Rajasthan),282.85,234.95
+2017-08-01,FY 2017-18,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),628.48,381.06
+2017-09-01,FY 2017-18,ONGC,Offshore (Mumbai High/Bassein),1127.32,1286.23
+2017-09-01,FY 2017-18,ONGC,Onshore (Gujarat/Assam/Others),476.87,500.2
+2017-09-01,FY 2017-18,OIL India,Onshore (Assam/Rajasthan),269.43,243.3
+2017-09-01,FY 2017-18,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),638.92,394.41
+2017-10-01,FY 2017-18,ONGC,Offshore (Mumbai High/Bassein),1122.36,1308.83
+2017-10-01,FY 2017-18,ONGC,Onshore (Gujarat/Assam/Others),468.71,508.99
+2017-10-01,FY 2017-18,OIL India,Onshore (Assam/Rajasthan),278.4,250.78
+2017-10-01,FY 2017-18,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),643.19,367.57
+2017-11-01,FY 2017-18,ONGC,Offshore (Mumbai High/Bassein),1107.1,1295.41
+2017-11-01,FY 2017-18,ONGC,Onshore (Gujarat/Assam/Others),479.85,503.77
+2017-11-01,FY 2017-18,OIL India,Onshore (Assam/Rajasthan),276.5,254.83
+2017-11-01,FY 2017-18,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),637.33,369.46
+2017-12-01,FY 2017-18,ONGC,Offshore (Mumbai High/Bassein),1122.21,1307.26
+2017-12-01,FY 2017-18,ONGC,Onshore (Gujarat/Assam/Others),471.88,508.38
+2017-12-01,FY 2017-18,OIL India,Onshore (Assam/Rajasthan),271.36,252.21
+2017-12-01,FY 2017-18,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),648.85,396.25
+2018-01-01,FY 2017-18,ONGC,Offshore (Mumbai High/Bassein),1112.82,1289.16
+2018-01-01,FY 2017-18,ONGC,Onshore (Gujarat/Assam/Others),478.58,501.34
+2018-01-01,FY 2017-18,OIL India,Onshore (Assam/Rajasthan),270.64,248.08
+2018-01-01,FY 2017-18,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),637.64,383.93
+2018-02-01,FY 2017-18,ONGC,Offshore (Mumbai High/Bassein),1098.73,1311.45
+2018-02-01,FY 2017-18,ONGC,Onshore (Gujarat/Assam/Others),489.49,510.01
+2018-02-01,FY 2017-18,OIL India,Onshore (Assam/Rajasthan),266.3,252.42
+2018-02-01,FY 2017-18,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),617.26,382.7
+2018-03-01,FY 2017-18,ONGC,Offshore (Mumbai High/Bassein),1118.93,1277.51
+2018-03-01,FY 2017-18,ONGC,Onshore (Gujarat/Assam/Others),472.28,496.81
+2018-03-01,FY 2017-18,OIL India,Onshore (Assam/Rajasthan),266.78,253.68
+2018-03-01,FY 2017-18,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),630.83,369.46
+2018-04-01,FY 2018-19,ONGC,Offshore (Mumbai High/Bassein),1095.62,1274.0
+2018-04-01,FY 2018-19,ONGC,Onshore (Gujarat/Assam/Others),469.43,495.44
+2018-04-01,FY 2018-19,OIL India,Onshore (Assam/Rajasthan),274.48,249.46
+2018-04-01,FY 2018-19,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),621.24,373.67
+2018-05-01,FY 2018-19,ONGC,Offshore (Mumbai High/Bassein),1098.9,1262.57
+2018-05-01,FY 2018-19,ONGC,Onshore (Gujarat/Assam/Others),467.86,491.0
+2018-05-01,FY 2018-19,OIL India,Onshore (Assam/Rajasthan),273.23,243.86
+2018-05-01,FY 2018-19,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),608.71,365.13
+2018-06-01,FY 2018-19,ONGC,Offshore (Mumbai High/Bassein),1109.66,1286.66
+2018-06-01,FY 2018-19,ONGC,Onshore (Gujarat/Assam/Others),483.05,500.37
+2018-06-01,FY 2018-19,OIL India,Onshore (Assam/Rajasthan),276.81,242.32
+2018-06-01,FY 2018-19,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),622.25,366.39
+2018-07-01,FY 2018-19,ONGC,Offshore (Mumbai High/Bassein),1055.2,1313.69
+2018-07-01,FY 2018-19,ONGC,Onshore (Gujarat/Assam/Others),473.46,510.88
+2018-07-01,FY 2018-19,OIL India,Onshore (Assam/Rajasthan),266.54,247.85
+2018-07-01,FY 2018-19,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),628.48,371.03
+2018-08-01,FY 2018-19,ONGC,Offshore (Mumbai High/Bassein),1067.86,1286.96
+2018-08-01,FY 2018-19,ONGC,Onshore (Gujarat/Assam/Others),467.29,500.48
+2018-08-01,FY 2018-19,OIL India,Onshore (Assam/Rajasthan),272.68,244.03
+2018-08-01,FY 2018-19,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),620.48,363.7
+2018-09-01,FY 2018-19,ONGC,Offshore (Mumbai High/Bassein),1107.97,1270.49
+2018-09-01,FY 2018-19,ONGC,Onshore (Gujarat/Assam/Others),481.73,494.08
+2018-09-01,FY 2018-19,OIL India,Onshore (Assam/Rajasthan),276.92,254.07
+2018-09-01,FY 2018-19,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),644.25,364.42
+2018-10-01,FY 2018-19,ONGC,Offshore (Mumbai High/Bassein),1131.85,1245.17
+2018-10-01,FY 2018-19,ONGC,Onshore (Gujarat/Assam/Others),463.28,484.23
+2018-10-01,FY 2018-19,OIL India,Onshore (Assam/Rajasthan),265.96,245.85
+2018-10-01,FY 2018-19,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),609.31,348.61
+2018-11-01,FY 2018-19,ONGC,Offshore (Mumbai High/Bassein),1099.76,1272.12
+2018-11-01,FY 2018-19,ONGC,Onshore (Gujarat/Assam/Others),472.11,494.71
+2018-11-01,FY 2018-19,OIL India,Onshore (Assam/Rajasthan),282.09,243.78
+2018-11-01,FY 2018-19,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),625.99,365.71
+2018-12-01,FY 2018-19,ONGC,Offshore (Mumbai High/Bassein),1076.2,1250.76
+2018-12-01,FY 2018-19,ONGC,Onshore (Gujarat/Assam/Others),483.65,486.41
+2018-12-01,FY 2018-19,OIL India,Onshore (Assam/Rajasthan),277.74,257.46
+2018-12-01,FY 2018-19,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),607.04,354.95
+2019-01-01,FY 2018-19,ONGC,Offshore (Mumbai High/Bassein),1113.07,1281.55
+2019-01-01,FY 2018-19,ONGC,Onshore (Gujarat/Assam/Others),455.87,498.38
+2019-01-01,FY 2018-19,OIL India,Onshore (Assam/Rajasthan),266.9,246.8
+2019-01-01,FY 2018-19,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),610.81,364.34
+2019-02-01,FY 2018-19,ONGC,Offshore (Mumbai High/Bassein),1076.99,1292.61
+2019-02-01,FY 2018-19,ONGC,Onshore (Gujarat/Assam/Others),467.11,502.68
+2019-02-01,FY 2018-19,OIL India,Onshore (Assam/Rajasthan),271.06,242.92
+2019-02-01,FY 2018-19,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),615.01,330.32
+2019-03-01,FY 2018-19,ONGC,Offshore (Mumbai High/Bassein),1110.67,1280.98
+2019-03-01,FY 2018-19,ONGC,Onshore (Gujarat/Assam/Others),470.53,498.16
+2019-03-01,FY 2018-19,OIL India,Onshore (Assam/Rajasthan),265.68,256.91
+2019-03-01,FY 2018-19,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),625.53,352.68
+2019-04-01,FY 2019-20,ONGC,Offshore (Mumbai High/Bassein),1120.91,1289.62
+2019-04-01,FY 2019-20,ONGC,Onshore (Gujarat/Assam/Others),481.54,501.52
+2019-04-01,FY 2019-20,OIL India,Onshore (Assam/Rajasthan),268.51,258.21
+2019-04-01,FY 2019-20,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),616.66,335.53
+2019-05-01,FY 2019-20,ONGC,Offshore (Mumbai High/Bassein),1098.79,1240.39
+2019-05-01,FY 2019-20,ONGC,Onshore (Gujarat/Assam/Others),475.59,482.38
+2019-05-01,FY 2019-20,OIL India,Onshore (Assam/Rajasthan),259.28,248.55
+2019-05-01,FY 2019-20,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),588.88,359.1
+2019-06-01,FY 2019-20,ONGC,Offshore (Mumbai High/Bassein),1109.54,1245.54
+2019-06-01,FY 2019-20,ONGC,Onshore (Gujarat/Assam/Others),467.34,484.38
+2019-06-01,FY 2019-20,OIL India,Onshore (Assam/Rajasthan),279.44,250.0
+2019-06-01,FY 2019-20,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),584.61,352.43
+2019-07-01,FY 2019-20,ONGC,Offshore (Mumbai High/Bassein),1041.61,1287.35
+2019-07-01,FY 2019-20,ONGC,Onshore (Gujarat/Assam/Others),449.84,500.64
+2019-07-01,FY 2019-20,OIL India,Onshore (Assam/Rajasthan),268.97,252.7
+2019-07-01,FY 2019-20,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),583.6,330.9
+2019-08-01,FY 2019-20,ONGC,Offshore (Mumbai High/Bassein),1033.24,1256.66
+2019-08-01,FY 2019-20,ONGC,Onshore (Gujarat/Assam/Others),457.53,488.7
+2019-08-01,FY 2019-20,OIL India,Onshore (Assam/Rajasthan),268.96,253.69
+2019-08-01,FY 2019-20,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),608.8,335.38
+2019-09-01,FY 2019-20,ONGC,Offshore (Mumbai High/Bassein),1070.61,1251.94
+2019-09-01,FY 2019-20,ONGC,Onshore (Gujarat/Assam/Others),464.77,486.86
+2019-09-01,FY 2019-20,OIL India,Onshore (Assam/Rajasthan),262.96,262.62
+2019-09-01,FY 2019-20,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),588.77,342.2
+2019-10-01,FY 2019-20,ONGC,Offshore (Mumbai High/Bassein),1070.5,1283.66
+2019-10-01,FY 2019-20,ONGC,Onshore (Gujarat/Assam/Others),466.96,499.2
+2019-10-01,FY 2019-20,OIL India,Onshore (Assam/Rajasthan),268.33,255.55
+2019-10-01,FY 2019-20,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),590.85,332.04
+2019-11-01,FY 2019-20,ONGC,Offshore (Mumbai High/Bassein),1070.86,1296.3
+2019-11-01,FY 2019-20,ONGC,Onshore (Gujarat/Assam/Others),462.67,504.12
+2019-11-01,FY 2019-20,OIL India,Onshore (Assam/Rajasthan),255.02,261.04
+2019-11-01,FY 2019-20,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),573.4,334.6
+2019-12-01,FY 2019-20,ONGC,Offshore (Mumbai High/Bassein),1086.65,1268.5
+2019-12-01,FY 2019-20,ONGC,Onshore (Gujarat/Assam/Others),466.99,493.3
+2019-12-01,FY 2019-20,OIL India,Onshore (Assam/Rajasthan),287.14,245.6
+2019-12-01,FY 2019-20,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),603.1,312.57
+2020-01-01,FY 2019-20,ONGC,Offshore (Mumbai High/Bassein),1079.55,1250.43
+2020-01-01,FY 2019-20,ONGC,Onshore (Gujarat/Assam/Others),458.07,486.28
+2020-01-01,FY 2019-20,OIL India,Onshore (Assam/Rajasthan),259.97,261.62
+2020-01-01,FY 2019-20,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),579.99,348.22
+2020-02-01,FY 2019-20,ONGC,Offshore (Mumbai High/Bassein),1074.88,1296.42
+2020-02-01,FY 2019-20,ONGC,Onshore (Gujarat/Assam/Others),475.59,504.16
+2020-02-01,FY 2019-20,OIL India,Onshore (Assam/Rajasthan),268.8,254.9
+2020-02-01,FY 2019-20,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),575.5,317.77
+2020-03-01,FY 2019-20,ONGC,Offshore (Mumbai High/Bassein),1070.64,1302.47
+2020-03-01,FY 2019-20,ONGC,Onshore (Gujarat/Assam/Others),456.37,506.52
+2020-03-01,FY 2019-20,OIL India,Onshore (Assam/Rajasthan),259.87,243.44
+2020-03-01,FY 2019-20,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),595.03,340.11
+2020-04-01,FY 2020-21,ONGC,Offshore (Mumbai High/Bassein),1062.24,1268.07
+2020-04-01,FY 2020-21,ONGC,Onshore (Gujarat/Assam/Others),459.1,493.14
+2020-04-01,FY 2020-21,OIL India,Onshore (Assam/Rajasthan),264.45,247.01
+2020-04-01,FY 2020-21,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),571.63,334.06
+2020-05-01,FY 2020-21,ONGC,Offshore (Mumbai High/Bassein),1069.75,1279.9
+2020-05-01,FY 2020-21,ONGC,Onshore (Gujarat/Assam/Others),460.71,497.74
+2020-05-01,FY 2020-21,OIL India,Onshore (Assam/Rajasthan),262.39,255.17
+2020-05-01,FY 2020-21,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),487.19,313.67
+2020-06-01,FY 2020-21,ONGC,Offshore (Mumbai High/Bassein),1070.49,1253.47
+2020-06-01,FY 2020-21,ONGC,Onshore (Gujarat/Assam/Others),468.26,487.46
+2020-06-01,FY 2020-21,OIL India,Onshore (Assam/Rajasthan),257.65,255.76
+2020-06-01,FY 2020-21,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),496.98,315.22
+2020-07-01,FY 2020-21,ONGC,Offshore (Mumbai High/Bassein),998.81,1248.22
+2020-07-01,FY 2020-21,ONGC,Onshore (Gujarat/Assam/Others),448.85,485.42
+2020-07-01,FY 2020-21,OIL India,Onshore (Assam/Rajasthan),267.79,256.33
+2020-07-01,FY 2020-21,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),492.46,300.08
+2020-08-01,FY 2020-21,ONGC,Offshore (Mumbai High/Bassein),1022.41,1248.11
+2020-08-01,FY 2020-21,ONGC,Onshore (Gujarat/Assam/Others),451.81,485.38
+2020-08-01,FY 2020-21,OIL India,Onshore (Assam/Rajasthan),263.42,250.36
+2020-08-01,FY 2020-21,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),488.67,338.43
+2020-09-01,FY 2020-21,ONGC,Offshore (Mumbai High/Bassein),1055.85,1288.65
+2020-09-01,FY 2020-21,ONGC,Onshore (Gujarat/Assam/Others),467.81,501.14
+2020-09-01,FY 2020-21,OIL India,Onshore (Assam/Rajasthan),260.39,238.0
+2020-09-01,FY 2020-21,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),491.96,309.71
+2020-10-01,FY 2020-21,ONGC,Offshore (Mumbai High/Bassein),1071.66,1263.36
+2020-10-01,FY 2020-21,ONGC,Onshore (Gujarat/Assam/Others),459.13,491.31
+2020-10-01,FY 2020-21,OIL India,Onshore (Assam/Rajasthan),269.23,252.07
+2020-10-01,FY 2020-21,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),478.76,337.52
+2020-11-01,FY 2020-21,ONGC,Offshore (Mumbai High/Bassein),1065.32,1253.11
+2020-11-01,FY 2020-21,ONGC,Onshore (Gujarat/Assam/Others),463.08,487.32
+2020-11-01,FY 2020-21,OIL India,Onshore (Assam/Rajasthan),264.36,255.53
+2020-11-01,FY 2020-21,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),478.32,312.02
+2020-12-01,FY 2020-21,ONGC,Offshore (Mumbai High/Bassein),1064.35,1281.62
+2020-12-01,FY 2020-21,ONGC,Onshore (Gujarat/Assam/Others),476.6,498.41
+2020-12-01,FY 2020-21,OIL India,Onshore (Assam/Rajasthan),271.89,250.88
+2020-12-01,FY 2020-21,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),478.34,286.09
+2021-01-01,FY 2020-21,ONGC,Offshore (Mumbai High/Bassein),1043.38,1289.28
+2021-01-01,FY 2020-21,ONGC,Onshore (Gujarat/Assam/Others),444.66,501.39
+2021-01-01,FY 2020-21,OIL India,Onshore (Assam/Rajasthan),264.39,255.46
+2021-01-01,FY 2020-21,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),480.23,311.71
+2021-02-01,FY 2020-21,ONGC,Offshore (Mumbai High/Bassein),1069.44,1231.59
+2021-02-01,FY 2020-21,ONGC,Onshore (Gujarat/Assam/Others),441.56,478.95
+2021-02-01,FY 2020-21,OIL India,Onshore (Assam/Rajasthan),267.75,260.53
+2021-02-01,FY 2020-21,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),486.27,318.41
+2021-03-01,FY 2020-21,ONGC,Offshore (Mumbai High/Bassein),1049.27,1261.77
+2021-03-01,FY 2020-21,ONGC,Onshore (Gujarat/Assam/Others),463.94,490.69
+2021-03-01,FY 2020-21,OIL India,Onshore (Assam/Rajasthan),279.79,251.08
+2021-03-01,FY 2020-21,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),478.63,298.92
+2021-04-01,FY 2021-22,ONGC,Offshore (Mumbai High/Bassein),1066.46,1265.02
+2021-04-01,FY 2021-22,ONGC,Onshore (Gujarat/Assam/Others),451.65,491.95
+2021-04-01,FY 2021-22,OIL India,Onshore (Assam/Rajasthan),266.43,256.0
+2021-04-01,FY 2021-22,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),470.28,325.56
+2021-05-01,FY 2021-22,ONGC,Offshore (Mumbai High/Bassein),1044.85,1262.29
+2021-05-01,FY 2021-22,ONGC,Onshore (Gujarat/Assam/Others),455.97,490.89
+2021-05-01,FY 2021-22,OIL India,Onshore (Assam/Rajasthan),259.96,258.71
+2021-05-01,FY 2021-22,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),468.99,844.5
+2021-06-01,FY 2021-22,ONGC,Offshore (Mumbai High/Bassein),1064.04,1240.67
+2021-06-01,FY 2021-22,ONGC,Onshore (Gujarat/Assam/Others),468.6,482.48
+2021-06-01,FY 2021-22,OIL India,Onshore (Assam/Rajasthan),268.15,246.87
+2021-06-01,FY 2021-22,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),491.03,829.99
+2021-07-01,FY 2021-22,ONGC,Offshore (Mumbai High/Bassein),1029.06,1233.44
+2021-07-01,FY 2021-22,ONGC,Onshore (Gujarat/Assam/Others),462.61,479.67
+2021-07-01,FY 2021-22,OIL India,Onshore (Assam/Rajasthan),265.17,269.17
+2021-07-01,FY 2021-22,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),473.12,856.94
+2021-08-01,FY 2021-22,ONGC,Offshore (Mumbai High/Bassein),1007.66,1238.57
+2021-08-01,FY 2021-22,ONGC,Onshore (Gujarat/Assam/Others),462.81,481.67
+2021-08-01,FY 2021-22,OIL India,Onshore (Assam/Rajasthan),268.22,257.5
+2021-08-01,FY 2021-22,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),470.92,881.56
+2021-09-01,FY 2021-22,ONGC,Offshore (Mumbai High/Bassein),1066.68,1249.64
+2021-09-01,FY 2021-22,ONGC,Onshore (Gujarat/Assam/Others),469.37,485.97
+2021-09-01,FY 2021-22,OIL India,Onshore (Assam/Rajasthan),262.1,255.17
+2021-09-01,FY 2021-22,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),456.91,868.08
+2021-10-01,FY 2021-22,ONGC,Offshore (Mumbai High/Bassein),1019.61,1232.78
+2021-10-01,FY 2021-22,ONGC,Onshore (Gujarat/Assam/Others),468.49,479.42
+2021-10-01,FY 2021-22,OIL India,Onshore (Assam/Rajasthan),264.05,245.07
+2021-10-01,FY 2021-22,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),461.02,862.35
+2021-11-01,FY 2021-22,ONGC,Offshore (Mumbai High/Bassein),1044.6,1280.14
+2021-11-01,FY 2021-22,ONGC,Onshore (Gujarat/Assam/Others),445.56,497.83
+2021-11-01,FY 2021-22,OIL India,Onshore (Assam/Rajasthan),257.06,253.61
+2021-11-01,FY 2021-22,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),460.32,825.79
+2021-12-01,FY 2021-22,ONGC,Offshore (Mumbai High/Bassein),1038.31,1245.04
+2021-12-01,FY 2021-22,ONGC,Onshore (Gujarat/Assam/Others),453.32,484.18
+2021-12-01,FY 2021-22,OIL India,Onshore (Assam/Rajasthan),248.49,259.51
+2021-12-01,FY 2021-22,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),461.56,874.4
+2022-01-01,FY 2021-22,ONGC,Offshore (Mumbai High/Bassein),1057.4,1249.37
+2022-01-01,FY 2021-22,ONGC,Onshore (Gujarat/Assam/Others),452.97,485.86
+2022-01-01,FY 2021-22,OIL India,Onshore (Assam/Rajasthan),257.86,255.58
+2022-01-01,FY 2021-22,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),486.74,844.64
+2022-02-01,FY 2021-22,ONGC,Offshore (Mumbai High/Bassein),1041.97,1246.81
+2022-02-01,FY 2021-22,ONGC,Onshore (Gujarat/Assam/Others),453.6,484.87
+2022-02-01,FY 2021-22,OIL India,Onshore (Assam/Rajasthan),260.89,252.41
+2022-02-01,FY 2021-22,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),453.28,832.64
+2022-03-01,FY 2021-22,ONGC,Offshore (Mumbai High/Bassein),1039.1,1266.15
+2022-03-01,FY 2021-22,ONGC,Onshore (Gujarat/Assam/Others),452.34,492.39
+2022-03-01,FY 2021-22,OIL India,Onshore (Assam/Rajasthan),273.19,263.31
+2022-03-01,FY 2021-22,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),430.19,810.57
+2022-04-01,FY 2022-23,ONGC,Offshore (Mumbai High/Bassein),1030.86,1225.61
+2022-04-01,FY 2022-23,ONGC,Onshore (Gujarat/Assam/Others),451.03,476.63
+2022-04-01,FY 2022-23,OIL India,Onshore (Assam/Rajasthan),255.55,266.51
+2022-04-01,FY 2022-23,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),447.67,854.04
+2022-05-01,FY 2022-23,ONGC,Offshore (Mumbai High/Bassein),1053.57,1253.51
+2022-05-01,FY 2022-23,ONGC,Onshore (Gujarat/Assam/Others),459.4,487.48
+2022-05-01,FY 2022-23,OIL India,Onshore (Assam/Rajasthan),257.06,248.83
+2022-05-01,FY 2022-23,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),448.62,849.03
+2022-06-01,FY 2022-23,ONGC,Offshore (Mumbai High/Bassein),1029.4,1237.3
+2022-06-01,FY 2022-23,ONGC,Onshore (Gujarat/Assam/Others),450.25,481.17
+2022-06-01,FY 2022-23,OIL India,Onshore (Assam/Rajasthan),267.93,263.29
+2022-06-01,FY 2022-23,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),456.87,820.45
+2022-07-01,FY 2022-23,ONGC,Offshore (Mumbai High/Bassein),999.11,1220.38
+2022-07-01,FY 2022-23,ONGC,Onshore (Gujarat/Assam/Others),457.62,474.59
+2022-07-01,FY 2022-23,OIL India,Onshore (Assam/Rajasthan),261.64,262.04
+2022-07-01,FY 2022-23,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),454.04,832.23
+2022-08-01,FY 2022-23,ONGC,Offshore (Mumbai High/Bassein),981.27,1213.98
+2022-08-01,FY 2022-23,ONGC,Onshore (Gujarat/Assam/Others),460.89,472.1
+2022-08-01,FY 2022-23,OIL India,Onshore (Assam/Rajasthan),259.11,260.3
+2022-08-01,FY 2022-23,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),434.72,814.13
+2022-09-01,FY 2022-23,ONGC,Offshore (Mumbai High/Bassein),1054.82,1239.36
+2022-09-01,FY 2022-23,ONGC,Onshore (Gujarat/Assam/Others),435.47,481.97
+2022-09-01,FY 2022-23,OIL India,Onshore (Assam/Rajasthan),273.35,253.56
+2022-09-01,FY 2022-23,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),449.61,837.65
+2022-10-01,FY 2022-23,ONGC,Offshore (Mumbai High/Bassein),1026.44,1233.65
+2022-10-01,FY 2022-23,ONGC,Onshore (Gujarat/Assam/Others),460.58,479.75
+2022-10-01,FY 2022-23,OIL India,Onshore (Assam/Rajasthan),263.69,256.66
+2022-10-01,FY 2022-23,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),447.36,834.62
+2022-11-01,FY 2022-23,ONGC,Offshore (Mumbai High/Bassein),999.85,1235.99
+2022-11-01,FY 2022-23,ONGC,Onshore (Gujarat/Assam/Others),440.59,480.66
+2022-11-01,FY 2022-23,OIL India,Onshore (Assam/Rajasthan),267.29,257.28
+2022-11-01,FY 2022-23,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),445.94,833.55
+2022-12-01,FY 2022-23,ONGC,Offshore (Mumbai High/Bassein),1015.9,1245.75
+2022-12-01,FY 2022-23,ONGC,Onshore (Gujarat/Assam/Others),444.77,484.46
+2022-12-01,FY 2022-23,OIL India,Onshore (Assam/Rajasthan),263.84,247.12
+2022-12-01,FY 2022-23,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),432.59,842.1
+2023-01-01,FY 2022-23,ONGC,Offshore (Mumbai High/Bassein),1029.59,1255.76
+2023-01-01,FY 2022-23,ONGC,Onshore (Gujarat/Assam/Others),452.67,488.35
+2023-01-01,FY 2022-23,OIL India,Onshore (Assam/Rajasthan),268.4,246.45
+2023-01-01,FY 2022-23,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),457.93,805.81
+2023-02-01,FY 2022-23,ONGC,Offshore (Mumbai High/Bassein),1011.63,1239.96
+2023-02-01,FY 2022-23,ONGC,Onshore (Gujarat/Assam/Others),450.46,482.21
+2023-02-01,FY 2022-23,OIL India,Onshore (Assam/Rajasthan),265.44,253.13
+2023-02-01,FY 2022-23,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),431.91,814.16
+2023-03-01,FY 2022-23,ONGC,Offshore (Mumbai High/Bassein),998.4,1254.67
+2023-03-01,FY 2022-23,ONGC,Onshore (Gujarat/Assam/Others),442.49,487.93
+2023-03-01,FY 2022-23,OIL India,Onshore (Assam/Rajasthan),254.06,252.14
+2023-03-01,FY 2022-23,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),427.73,861.15
+2023-04-01,FY 2023-24,ONGC,Offshore (Mumbai High/Bassein),1025.4,1224.44
+2023-04-01,FY 2023-24,ONGC,Onshore (Gujarat/Assam/Others),450.98,476.17
+2023-04-01,FY 2023-24,OIL India,Onshore (Assam/Rajasthan),256.85,258.73
+2023-04-01,FY 2023-24,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),443.19,858.4
+2023-05-01,FY 2023-24,ONGC,Offshore (Mumbai High/Bassein),1015.06,1265.77
+2023-05-01,FY 2023-24,ONGC,Onshore (Gujarat/Assam/Others),458.32,492.25
+2023-05-01,FY 2023-24,OIL India,Onshore (Assam/Rajasthan),257.61,254.4
+2023-05-01,FY 2023-24,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),434.06,845.52
+2023-06-01,FY 2023-24,ONGC,Offshore (Mumbai High/Bassein),1025.62,1244.19
+2023-06-01,FY 2023-24,ONGC,Onshore (Gujarat/Assam/Others),444.25,483.85
+2023-06-01,FY 2023-24,OIL India,Onshore (Assam/Rajasthan),265.46,248.91
+2023-06-01,FY 2023-24,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),442.71,805.76
+2023-07-01,FY 2023-24,ONGC,Offshore (Mumbai High/Bassein),969.4,1208.06
+2023-07-01,FY 2023-24,ONGC,Onshore (Gujarat/Assam/Others),447.78,469.8
+2023-07-01,FY 2023-24,OIL India,Onshore (Assam/Rajasthan),265.22,260.78
+2023-07-01,FY 2023-24,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),432.98,824.16
+2023-08-01,FY 2023-24,ONGC,Offshore (Mumbai High/Bassein),979.58,1229.94
+2023-08-01,FY 2023-24,ONGC,Onshore (Gujarat/Assam/Others),456.65,478.31
+2023-08-01,FY 2023-24,OIL India,Onshore (Assam/Rajasthan),266.34,248.7
+2023-08-01,FY 2023-24,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),434.22,819.78
+2023-09-01,FY 2023-24,ONGC,Offshore (Mumbai High/Bassein),1013.62,1249.26
+2023-09-01,FY 2023-24,ONGC,Onshore (Gujarat/Assam/Others),449.8,485.82
+2023-09-01,FY 2023-24,OIL India,Onshore (Assam/Rajasthan),253.51,258.6
+2023-09-01,FY 2023-24,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),416.88,821.89
+2023-10-01,FY 2023-24,ONGC,Offshore (Mumbai High/Bassein),1009.42,1231.13
+2023-10-01,FY 2023-24,ONGC,Onshore (Gujarat/Assam/Others),447.49,478.77
+2023-10-01,FY 2023-24,OIL India,Onshore (Assam/Rajasthan),266.63,256.23
+2023-10-01,FY 2023-24,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),421.01,803.48
+2023-11-01,FY 2023-24,ONGC,Offshore (Mumbai High/Bassein),1002.86,1212.4
+2023-11-01,FY 2023-24,ONGC,Onshore (Gujarat/Assam/Others),448.65,471.49
+2023-11-01,FY 2023-24,OIL India,Onshore (Assam/Rajasthan),257.96,258.05
+2023-11-01,FY 2023-24,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),437.45,801.74
+2023-12-01,FY 2023-24,ONGC,Offshore (Mumbai High/Bassein),1027.7,1232.41
+2023-12-01,FY 2023-24,ONGC,Onshore (Gujarat/Assam/Others),448.07,479.27
+2023-12-01,FY 2023-24,OIL India,Onshore (Assam/Rajasthan),266.86,264.67
+2023-12-01,FY 2023-24,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),407.86,807.9
+2024-01-01,FY 2023-24,ONGC,Offshore (Mumbai High/Bassein),1020.48,1220.17
+2024-01-01,FY 2023-24,ONGC,Onshore (Gujarat/Assam/Others),441.99,474.51
+2024-01-01,FY 2023-24,OIL India,Onshore (Assam/Rajasthan),268.96,256.83
+2024-01-01,FY 2023-24,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),444.84,826.8
+2024-02-01,FY 2023-24,ONGC,Offshore (Mumbai High/Bassein),1026.69,1201.6
+2024-02-01,FY 2023-24,ONGC,Onshore (Gujarat/Assam/Others),441.57,467.29
+2024-02-01,FY 2023-24,OIL India,Onshore (Assam/Rajasthan),257.81,254.15
+2024-02-01,FY 2023-24,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),416.88,788.27
+2024-03-01,FY 2023-24,ONGC,Offshore (Mumbai High/Bassein),989.98,1206.93
+2024-03-01,FY 2023-24,ONGC,Onshore (Gujarat/Assam/Others),445.1,469.36
+2024-03-01,FY 2023-24,OIL India,Onshore (Assam/Rajasthan),261.57,265.74
+2024-03-01,FY 2023-24,Private / JV,Onshore & Offshore (Cairn/RIL/Ravva),433.94,798.46
